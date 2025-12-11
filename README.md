@@ -686,4 +686,6 @@ print("║  • Fly                           ║")
 print("║  • Speed/Noclip                  ║")
 print("║  • Hitbox                        ║")
 print("║  • Exploits                      ║")
+print("║
+print("║  Discord: discord.gg/JF2F2RANud  ║")
 print("╚══════════════════════════════════╝")
